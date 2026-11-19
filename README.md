@@ -1,4 +1,4 @@
-![QuantumSensor-Lab cover](assets/cover.png)
+![QuantumSensor-Lab cover](QuantumSensor-Lab%20cover.png)
 
 # QuantumSensor-Lab 📡⚛️
 
